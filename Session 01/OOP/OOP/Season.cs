@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP
 {
-    internal enum Season
+    public enum Season
     {
         spring, 
         summer,
@@ -15,7 +15,7 @@ namespace OOP
     }
     public class SessonPrinter
     {
-        public void Print()
+        public void Print() 
         {
             Console.WriteLine("Enter Sesson Printer");
             String? Season1 = Console.ReadLine();
