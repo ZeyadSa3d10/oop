@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP
 {
-    public enum Season
+    public enum Season // spring, summer, autumn, winter
     {
         spring, 
         summer,

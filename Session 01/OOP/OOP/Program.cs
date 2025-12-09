@@ -25,7 +25,7 @@ namespace OOP
             int.TryParse(Console.ReadLine(), out int y2);
 
             point distans = new point(x1,y1,x2,y2 );
-
+           
         }
     }
 }
