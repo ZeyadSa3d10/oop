@@ -23,7 +23,7 @@ namespace OOP
             foreach (WeekDayes day in Enum.GetValues(typeof(WeekDayes)))
             {
                 Console.WriteLine(day);
-            }
+            } 
         }
     }
     
