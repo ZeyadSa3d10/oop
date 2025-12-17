@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using OOP.Inheritance;
+
 namespace OOP
 {
     internal class Program
@@ -59,13 +60,38 @@ namespace OOP
             //
             // #endregion
 
-             Parent parent = new Parent(5, 10);
-             Console.WriteLine(parent.ToString()) ;
-             Console.WriteLine(parent.prouduct());
+            //  Parent parent = new Parent(5, 10);
+            //  Console.WriteLine(parent.ToString()) ;
+            //  Console.WriteLine(parent.prouduct());
+            //
+            // Child child = new Child(2, 3, 4);
+            // Console.WriteLine(child.ToString());
+            // Console.WriteLine(child.prouduct());
 
-            Child child = new Child(2, 3, 4);
-            Console.WriteLine(child.ToString());
-            Console.WriteLine(child.prouduct());
+            Employee[] employee = new Employee[2];
+
+            for (int i = 0; i < employee.Length; i++)
+            {
+                Console.WriteLine($"Enter the name of employee {i + 1}:");
+                string? name = Console.ReadLine();
+                Console.WriteLine($"Enter the salary of employee {i + 1}:");
+                double.TryParse(Console.ReadLine(), out double salary);
+                Console.WriteLine($"Enter the ID of employee {i + 1}:");
+                int.TryParse(Console.ReadLine(), out int id);
+                Console.WriteLine($"Enter the level of employee {i + 1}:");
+                level level = (level)Enum.Parse(typeof(level), Console.ReadLine() ?? "Junior");
+                Console.WriteLine($"enter the hire date of employee {i + 1} (yyyy-MM-dd):");
+                DateTime.TryParse(Console.ReadLine(), out DateTime hireDate);
+                Console.WriteLine($"enter the gender of employee {i + 1}:");
+                Gender gender = (Gender)Enum.Parse(typeof(Gender), Console.ReadLine() ?? "Unknown");
+                employee[i] = new Employee();
+
+
+            }
+            for (int i = 0; i < employee.Length; i++)
+            {
+                Console.WriteLine(employee[i].ToString());
+            }
         }
     }
 }
