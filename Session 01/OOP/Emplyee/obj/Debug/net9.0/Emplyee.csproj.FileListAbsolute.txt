@@ -1,0 +1,15 @@
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\obj\Debug\net9.0\Emplyee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\obj\Debug\net9.0\Emplyee.AssemblyInfoInputs.cache
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\obj\Debug\net9.0\Emplyee.AssemblyInfo.cs
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\obj\Debug\net9.0\Emplyee.csproj.CoreCompileInputs.cache
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\obj\Debug\net9.0\Emplyee.sourcelink.json
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\bin\Debug\net9.0\Emplyee.exe
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\bin\Debug\net9.0\Emplyee.deps.json
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\bin\Debug\net9.0\Emplyee.runtimeconfig.json
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\bin\Debug\net9.0\Emplyee.dll
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\bin\Debug\net9.0\Emplyee.pdb
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\obj\Debug\net9.0\Emplyee.dll
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\obj\Debug\net9.0\refint\Emplyee.dll
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\obj\Debug\net9.0\Emplyee.pdb
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\obj\Debug\net9.0\Emplyee.genruntimeconfig.cache
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\Emplyee\obj\Debug\net9.0\ref\Emplyee.dll

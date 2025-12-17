@@ -79,7 +79,8 @@ namespace OOP
                 Console.WriteLine($"Enter the ID of employee {i + 1}:");
                 int.TryParse(Console.ReadLine(), out int id);
                 Console.WriteLine($"Enter the level of employee {i + 1}:");
-                level level = (level)Enum.Parse(typeof(level), Console.ReadLine() ?? "Junior");
+                
+                 level level = (level)Enum.Parse(typeof(level), Console.ReadLine() ?? "Junior");
                 Console.WriteLine($"enter the hire date of employee {i + 1} (yyyy-MM-dd):");
                 DateTime.TryParse(Console.ReadLine(), out DateTime hireDate);
                 Console.WriteLine($"enter the gender of employee {i + 1}:");
