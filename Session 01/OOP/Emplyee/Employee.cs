@@ -52,18 +52,18 @@ namespace Emplyee
             for (int i = 0; i < employees.Length; i++) {
                 do
                 {
-                    Console.WriteLine(" enter id employye num 1 ");
+                    Console.WriteLine($" enter id employye num {i=1}");
                     flag = int.TryParse(Console.ReadLine(), out employees[i].id);
                 } while (!flag);
                 do
                 {
-                    Console.WriteLine(" enter name emplyee numn 1");
+                    Console.WriteLine($" enter name emplyee numn {i=1}");
                     employees[i].name = Console.ReadLine();
                 } while (string.IsNullOrEmpty(employees[i].name));
 
                 do
                 {
-                    Console.WriteLine(" please enter the salary ");
+                    Console.WriteLine($" please enter the salary {i=1} ");
                     flag = double.TryParse(Console.ReadLine(), out employees[i].salary);
                 } while (!flag && employees[i].salary <= 0);
 
