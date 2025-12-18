@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Emplyee
 {
-    internal class Employee
+    internal class Employee  // Employee class to represent an employee
     {
         int id;
         string name;
