@@ -1,0 +1,15 @@
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\bin\Debug\net9.0\binding.exe
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\bin\Debug\net9.0\binding.deps.json
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\bin\Debug\net9.0\binding.runtimeconfig.json
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\bin\Debug\net9.0\binding.dll
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\bin\Debug\net9.0\binding.pdb
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\obj\Debug\net9.0\binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\obj\Debug\net9.0\binding.AssemblyInfoInputs.cache
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\obj\Debug\net9.0\binding.AssemblyInfo.cs
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\obj\Debug\net9.0\binding.csproj.CoreCompileInputs.cache
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\obj\Debug\net9.0\binding.sourcelink.json
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\obj\Debug\net9.0\binding.dll
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\obj\Debug\net9.0\refint\binding.dll
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\obj\Debug\net9.0\binding.pdb
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\obj\Debug\net9.0\binding.genruntimeconfig.cache
+C:\Users\zeyad\OneDrive\سطح المكتب\OOP\Session 01\OOP\binding\obj\Debug\net9.0\ref\binding.dll
