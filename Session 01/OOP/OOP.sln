@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emplyee", "Emplyee\Emplyee.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binding", "binding\binding.csproj", "{482992BC-D01C-49A1-AFD5-B3CEC49E9743}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{CA3633D0-FBEE-4B17-B009-764F734587BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{482992BC-D01C-49A1-AFD5-B3CEC49E9743}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{482992BC-D01C-49A1-AFD5-B3CEC49E9743}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{482992BC-D01C-49A1-AFD5-B3CEC49E9743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3633D0-FBEE-4B17-B009-764F734587BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3633D0-FBEE-4B17-B009-764F734587BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3633D0-FBEE-4B17-B009-764F734587BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3633D0-FBEE-4B17-B009-764F734587BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
